@@ -32,5 +32,6 @@ yarn install
 on your terminal
 
 ---
+<img src="https://user-images.githubusercontent.com/11669095/84721043-16a23980-af56-11ea-971c-12dae85c17ff.png" width="450" />
 
 🚀
